@@ -1,4 +1,4 @@
-# Community-detection-with-Node2Vec
+# Community-Detection-with-Node2Vec
 EE447 course project. Community detection using Node2vec and K-means++ 
 ## Approach
 First we map the nodes into a vector space by Node2vec, then we use K-means to find clusters, whose corresponding nodes constitute communities in the original graph.
