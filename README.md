@@ -5,4 +5,4 @@ First we map the nodes into a vector space by Node2vec, then we use K-means to f
 Any other clustering algorithm is valid.
 ## Experiments
 We test this algorithm on a community detection task, achieveing 95% accuracy. The algorithm finishes in ten minutes on a graph with 30,000 nodes.
-![](https://raw.githubusercontent.com/rikosellic/IMAGE/master/Logic.png)
+![](https://github.com/rikosellic/Community-detection-with-Node2Vec/blob/main/simple_result.png)
